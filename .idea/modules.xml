@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/PythonDemo.iml" filepath="$PROJECT_DIR$/.idea/PythonDemo.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Demo2/.idea/pcr_scrimmage.iml" filepath="$USER_HOME$/Desktop/Demo2/.idea/pcr_scrimmage.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/plugins-for-Hoshino/.idea/plugins-for-Hoshino.iml" filepath="$USER_HOME$/Desktop/plugins-for-Hoshino/.idea/plugins-for-Hoshino.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/rss/.idea/rss.iml" filepath="$USER_HOME$/Desktop/rss/.idea/rss.iml" />
     </modules>
   </component>
 </project>

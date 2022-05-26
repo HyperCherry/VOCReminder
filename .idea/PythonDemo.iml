@@ -4,5 +4,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="pcr_scrimmage" />
+    <orderEntry type="module" module-name="rss" />
+    <orderEntry type="module" module-name="plugins-for-Hoshino" />
   </component>
 </module>
